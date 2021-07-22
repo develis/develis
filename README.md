@@ -3,11 +3,7 @@
 [![elismrclsa](https://github-readme-stats.vercel.app/api/top-langs/?username=elismrclsa&hide=html&layout=compact&theme=highcontrast)](https://github.com/elismrclsa/)
 <style>
   div{
-width: 100vw;
-height: 100vh;
-background: #6C7A89;
 display: flex;
-flex-direction: row;
 justify-content: center;
 align-items: center
 }
