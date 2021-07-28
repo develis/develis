@@ -5,10 +5,6 @@
 
 <hr>
 
-[![elismrclsa](https://github-readme-stats.vercel.app/api/top-langs/?username=elismrclsa&hide=html&layout=compact&theme=highcontrast)](https://github.com/elismrclsa/)
-
-<hr>
-
 <div style= "display: flex; justify-content: center; align-items: center">
   <h3 align="center">Learning:</h3>
   <p align="center">
