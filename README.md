@@ -1,10 +1,8 @@
 
-<div style= "margin: 0 auto; justify-content: center; align-items: center; text-align:center;">
-  <h1>Ad astra per áspera. </h1> <hr>
-<img src="https://ak6.picdn.net/shutterstock/videos/22001746/thumb/1.jpg?ip=x480" style="width=200px; height=200px"/>
-</div>
+  <h1>Ad astra per áspera. </h1> 
+<img src="https://ak6.picdn.net/shutterstock/videos/22001746/thumb/1.jpg?ip=x480" style="width=200px; height=200px"/><hr>
 
-[![elismrclsa](https://github-readme-stats.vercel.app/api/top-langs/?username=elismrclsa&hide=html&layout=compact&theme=highcontrast)](https://github.com/elismrclsa/)
+[![elismrclsa](https://github-readme-stats.vercel.app/api/top-langs/?username=elismrclsa&hide=html&layout=compact&theme=highcontrast)](https://github.com/elismrclsa/)<hr>
 
 <div style= "display: flex; justify-content: center; align-items: center">
   <h3>Learning:</h3>
