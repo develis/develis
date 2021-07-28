@@ -1,4 +1,4 @@
-<h1>Ad astra per áspera. </h1> 
+<h1 align="center">Ad astra per áspera. </h1> 
 <p align="center">
 <img src="https://ak6.picdn.net/shutterstock/videos/22001746/thumb/1.jpg?ip=x480" style="width=200px; height=200px"/>
 </p>
