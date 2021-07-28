@@ -4,11 +4,9 @@
 </p>
 
 <hr>
-<div style= "display: flex; justify-content: center; align-items: center">
     <p align="center">
 [![elismrclsa](https://github-readme-stats.vercel.app/api/top-langs/?username=elismrclsa&hide=html&layout=compact&theme=highcontrast)](https://github.com/elismrclsa/)
  </p>
-</div>
 <hr>
 
 <div style= "display: flex; justify-content: center; align-items: center">
