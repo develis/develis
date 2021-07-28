@@ -2,7 +2,7 @@
 
 [![elismrclsa](https://github-readme-stats.vercel.app/api/top-langs/?username=elismrclsa&hide=html&layout=compact&theme=highcontrast)](https://github.com/elismrclsa/)
 
-<img src"https://ak6.picdn.net/shutterstock/videos/22001746/thumb/1.jpg?ip=x480" style="width=200px; height=200px"/>
+<img src="https://ak6.picdn.net/shutterstock/videos/22001746/thumb/1.jpg?ip=x480" style="width=200px; height=200px"/>
 <div style= display: flex; justify-content: center; align-items: center>
   <h3>Learning:</h3>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
