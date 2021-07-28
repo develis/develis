@@ -2,9 +2,14 @@
 <p align="center">
 <img src="https://ak6.picdn.net/shutterstock/videos/22001746/thumb/1.jpg?ip=x480" style="width=200px; height=200px"/>
 </p>
-<hr>
 
-[![elismrclsa](https://github-readme-stats.vercel.app/api/top-langs/?username=elismrclsa&hide=html&layout=compact&theme=highcontrast)](https://github.com/elismrclsa/)<hr>
+<hr>
+<div style= "display: flex; justify-content: center; align-items: center">
+    <p align="center">
+[![elismrclsa](https://github-readme-stats.vercel.app/api/top-langs/?username=elismrclsa&hide=html&layout=compact&theme=highcontrast)](https://github.com/elismrclsa/)
+ </p>
+</div>
+<hr>
 
 <div style= "display: flex; justify-content: center; align-items: center">
   <h3 align="center">Learning:</h3>
