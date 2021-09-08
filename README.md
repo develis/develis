@@ -1,3 +1,4 @@
+[![develis](https://github-readme-stats.vercel.app/api/top-langs/?username=develis&hide=html&layout=compact&theme=default)](https://github.com/develis/)
 <h1 align="center">Per aspera ad astra. </h1> 
 <p align="center">
 <img src="https://cutewallpaper.org/21/galaxy-gif-background/Galaxy-Background-Gif-High-Res-Wendy-Anime-Art-Amino-.gif"/>
