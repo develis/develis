@@ -2,10 +2,9 @@
 <p align="center">
 <img src="https://cutewallpaper.org/21/galaxy-gif-background/Galaxy-Background-Gif-High-Res-Wendy-Anime-Art-Amino-.gif"/>
 </p>
-
+[![develis](https://github-readme-stats.vercel.app/api?username=develis&theme=dark)](https://github.com/develis/)
 <hr>
 
-    [![develis](https://github-readme-stats.vercel.app/api?username=develis&theme=dark)](https://github.com/develis/)
 <div style= "display: flex; justify-content: center; align-items: center">
   <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -15,6 +14,4 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
     </p>
-  <p>
-  </p>
 </div>
