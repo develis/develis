@@ -2,7 +2,6 @@
 <p align="center">
 <img src="https://cutewallpaper.org/21/galaxy-gif-background/Galaxy-Background-Gif-High-Res-Wendy-Anime-Art-Amino-.gif"/>
 </p>
-[![develis](https://github-readme-stats.vercel.app/api?username=develis&theme=dark)](https://github.com/develis/)
 <hr>
 
 <div style= "display: flex; justify-content: center; align-items: center">
