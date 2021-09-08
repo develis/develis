@@ -1,6 +1,6 @@
 <h1 align="center">Per aspera ad astra. </h1> 
 <p align="center">
-<img src="https://thumbs.gfycat.com/AnimatedDeficientAlleycat-size_restricted.gif" style="width=300px; height=200px"/>
+<img src="https://thumbs.gfycat.com/AnimatedDeficientAlleycat-size_restricted.gif" style="width=100vw; height=200px"/>
 </p>
 
 <hr>
