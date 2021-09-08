@@ -1,4 +1,4 @@
-[![develis](https://github-readme-stats.vercel.app/api/top-langs/?username=develis&hide=html&layout=compact&theme=default)](https://github.com/develis/)
+
 <h1 align="center">Per aspera ad astra. </h1> 
 <p align="center">
 <img src="https://cutewallpaper.org/21/galaxy-gif-background/Galaxy-Background-Gif-High-Res-Wendy-Anime-Art-Amino-.gif"/>
@@ -15,3 +15,4 @@
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
     </p>
 </div>
+[![develis](https://github-readme-stats.vercel.app/api/top-langs/?username=develis&hide=html&layout=compact&theme=dark)](https://github.com/develis/)
