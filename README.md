@@ -15,6 +15,6 @@
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
     </p>
   <div>
-    [![develis](https://github-readme-stats.vercel.app/api/top-langs/?username=develis&hide=html&layout=compact&theme=default)](https://github.com/develis/)
+    [![develis](https://github-readme-stats.vercel.app/api?username=develis&theme=dark)](https://github.com/develis/)
   </div>
 </div>
