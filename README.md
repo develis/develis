@@ -20,5 +20,5 @@
 </div>
 <hr>
 <div style= "display: flex; justify-content: center; align-items: center">
-<h4 align="center">Hi! My name is Elis, I'm 19 years old and currently studying Web Development [Full Stack] and also Computer Science. I enjoy both front and back end equally.</h4>
+<h4 align="center">Hi! My name is Elis, I'm 19 years old and currently studying Web Development [Full Stack] and also Computer Science. I enjoy both front and back end equally.I plan on learning new areas besides Web Development, but not for now.</h4>
 </div>
