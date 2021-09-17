@@ -16,8 +16,9 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     </p>
-  <hr>
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=develis&hide=html&layout=compact&theme=dark"/></p>
 </div>
-
-
+<hr>
+<div style= "display: flex; justify-content: center; align-items: center">
+<h4 align="center">Hi! My name is Elis, I'm 19 years old and currently studying Web Development [Full Stack] and also Computer Science. I enjoy both front and back end equally.</h4>
+</div>
