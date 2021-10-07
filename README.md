@@ -1,7 +1,7 @@
 
 <h1 align="center">Per aspera ad astra. </h1> 
 <p align="center">
-<img src="https://cutewallpaper.org/21/galaxy-gif-background/Galaxy-Background-Gif-High-Res-Wendy-Anime-Art-Amino-.gif"/>
+<img src="https://c.tenor.com/C6qR8z_eVGEAAAAd/star-wars-galaxy.gif"/>
 </p>
 <hr>
 
