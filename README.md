@@ -1,7 +1,7 @@
 
 <h1 align="center">Per aspera ad astra. </h1> 
 <p align="center">
-<img src="http://25.media.tumblr.com/e790f81f7f007abc855ee9db630a7762/tumblr_mfusgyAw981s1byhpo1_500.gif"/>
+<img src="https://cdn75.picsart.com/190940035001201.gif?to=min&r=640"/>
 </p>
 <hr>
 
