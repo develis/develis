@@ -26,5 +26,5 @@
 <hr>
 
 <p align=center>
-  <i>Hi! My name is Elis, I'm 19 years old and currently studying Web Development [Full Stack] and also Computer Science. I enjoy both front and back end equally. I also plan to learn new areas besides Web Development, but not for now.</i>
+  <i>Hi! My name is Elis, I'm 19 years old and currently studying Web Development [Full Stack] and also Computer Science. I enjoy both front and back end, but I prefer back end =). I also plan to learn new areas besides Web Development, but not for now.</i>
 </p>
