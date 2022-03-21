@@ -12,7 +12,7 @@
     <a href="mailto:emarcelatfs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/elismrclsa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
     
-💬 I'm 19 years old and currently studying Web Development (Java) and also Computer Science.I'm really a **back end enthusiast!** I also plan to learn new areas besides Web Development, but not for now.
+💬 I'm 19 years old and currently studying Web Development (Java) and also Computer Science. I'm really a **back end enthusiast!** I also plan to learn new areas besides Web Development, but not for now.
     
 </p>
 
