@@ -6,6 +6,7 @@
 <p align="right">
     
 📚 Computer Science - **Universidade Federal da Bahia**  
+💻 Graduate Consultant Developer - **Thoughtworks**  
 🎯 Currently interested in: **SOLID principles, clean code, algorithm analysis and TDD.**  
 😁 Feel free to **contact me:**  
     <br>
