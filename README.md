@@ -7,7 +7,7 @@
     
 📚 Computer Science - **Universidade Federal da Bahia**  
 💻 Graduate Software Engineer - **Thoughtworks**  
-🎯 Currently interested in: **SOLID principles, clean code, algorithm analysis and TDD.**  
+🎯 Currently interested in: **Java, Spring Boot, SOLID principles, clean code and TDD.**  
 😁 Feel free to **contact me:**  
     <br>
     <a href="mailto:emarcelatfs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
