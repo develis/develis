@@ -6,14 +6,13 @@
 <p align="right">
     
 📚 Computer Science - **Universidade Federal da Bahia**  
-💻 Graduate Software Engineer - **Thoughtworks**  
-🎯 Currently interested in: **Java, Spring Boot, SOLID principles, clean code and TDD.**  
+💻 Graduate Software Engineer - **Thoughtworks**   
+🎯 Enthusiast in: **Java, Spring, Docker, Kubernetes, Istio, clean code, SOLID principles, TDD, monitoring and alerts (New Relic, etc), ArgoCD.**
+🔎 Currently strongly interested in: **Kubernetes and Docker**.   
 😁 Feel free to **contact me:**  
     <br>
     <a href="mailto:emarcelatfs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/elismrclsa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-    
-💬 I'm 20 years old and currently studying web development, most specifically Spring Boot, and also Computer Science.
     
 </p>
 
