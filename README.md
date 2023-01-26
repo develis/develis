@@ -1,13 +1,14 @@
 <h2 align="center">🤠 Howdy! How’s it going? I'm Elis!</h2>
 
 <br>
-<img align="left" src="https://media1.giphy.com/media/RpfIXomvjCh8I/giphy.gif"/>
 
-<p align="right">
+<img align="right" src="https://media1.giphy.com/media/RpfIXomvjCh8I/giphy.gif"/>
+
+<p>
     
-📚 Computer Science - **Universidade Federal da Bahia**  
-💻 Graduate Software Engineer - **Thoughtworks**   
-🎯 Enthusiast in: **Java, Spring, Docker, Kubernetes, Istio, clean code, SOLID principles, TDD, monitoring and alerts (New Relic, etc), ArgoCD.**
+📚 Computer Science - *Universidade Federal da Bahia*  
+💻 Graduate Software Engineer - *Thoughtworks*   
+🎯 Enthusiast in: Java, Spring, Docker, Kubernetes, Istio, clean code, SOLID principles, TDD, monitoring and alerts (New Relic, etc), ArgoCD.  
 🔎 Currently strongly interested in: **Kubernetes and Docker**.   
 😁 Feel free to **contact me:**  
     <br>
@@ -15,11 +16,3 @@
     <a href="https://www.linkedin.com/in/elismrclsa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
     
 </p>
-
-<br>
-    
-<h2 align="center">🔨<h2/>
-    <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=develis&hide=html&layout=compact&theme=dark"/>
-    </p>
-<br>
