@@ -8,8 +8,8 @@
     
 📚 Computer Science - *Universidade Federal da Bahia*  
 💻 Graduate Software Engineer - *Thoughtworks*   
-🎯 Enthusiast in: Java, Spring, Docker, Kubernetes, Istio, clean code, SOLID principles, TDD, monitoring and alerts (New Relic, etc), ArgoCD.  
-🔎 Currently strongly interested in: **Kubernetes and Docker**.   
+🎯 Enthusiast in: Java, Spring, Docker, Kubernetes, clean code, SOLID principles, TDD, monitoring and alerts (New Relic, etc), ArgoCD.  
+🔎 Currently strongly interested in: **Functional programming and TDD**.   
 😁 Feel free to **contact me:**  
     <br>
     <a href="mailto:emarcelatfs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
