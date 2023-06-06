@@ -7,7 +7,7 @@
 <p>
     
 📚 Computer Science - *Universidade Federal da Bahia*  
-💻 Graduate Software Engineer - *Thoughtworks*   
+💻 Software Engineer - *Thoughtworks*   
 🎯 Enthusiast in: Java, Spring, Docker, Kubernetes, clean code, SOLID principles, TDD, monitoring and alerts (New Relic, etc), ArgoCD.  
 🔎 Currently strongly interested in: **Functional programming and TDD**.   
 😁 Feel free to **contact me:**  
