@@ -8,7 +8,7 @@
     
 📚 Computer Science - *Universidade Federal da Bahia*  
 💻 Software Engineer - *Thoughtworks*   
-🎯 Techs: Java, Spring Boot, JavaScript, K6, Docker, Kubernetes, SQL, NoSQL, MongoDB, CosmosDB, RabbitMQ, Git, JUnit, Mockito, Cucumber, Microserviços, ArgoCD, NewRelic, Istio e Azure DevOps.  
+🎯 Techs: Java, Spring Boot, JavaScript, K6, Docker, Kubernetes, SQL, NoSQL, MongoDB, CosmosDB, RabbitMQ, Git, JUnit, Mockito, Cucumber, Microserviços, ArgoCD, NewRelic, Istio, Azure DevOps.  
 🔎 Currently strongly interested in: **Spring Cloud and microservices**.   
 😁 Feel free to **contact me:**  
     <br>
