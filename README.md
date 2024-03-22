@@ -9,7 +9,7 @@
 📚 Computer Science - *Universidade Federal da Bahia*  
 💻 Software Engineer - *Thoughtworks*   
 🎯 Techs & tools: Java, Spring Boot, JavaScript, K6, Docker, Kubernetes, SQL, NoSQL, MongoDB, CosmosDB, RabbitMQ, Git, JUnit, Mockito, Cucumber, Microservices, ArgoCD, NewRelic, Istio, Azure DevOps.  
-🔎 Currently strongly interested in: **Android with Kotlin**.   
+🔎 Currently strongly interested in: **Gen AI and the whole Java/Spring ecosystem**.   
 😁 Feel free to **contact me:**  
     <br>
     <a href="mailto:emarcelatfs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
