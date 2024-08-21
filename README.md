@@ -6,7 +6,7 @@
 
 <p>
     
-📚 Computer Science - Universidade Federal da Bahia  
+📚 Computer Science - UFBA  
 💻 Mid Level Software Engineer - CI&T   
 🎯 Techs & tools: Java, Spring Boot, JavaScript, K6, Docker, Kubernetes, SQL, NoSQL, MongoDB, CosmosDB, RabbitMQ, Git, JUnit, Mockito, Cucumber, Microservices, ArgoCD, NewRelic, Istio, Azure DevOps  
 🔎 Currently strongly interested in: Gen AI and Java   
